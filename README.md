@@ -31,9 +31,22 @@ git clone https://github.com/jesamkim/2024-ebp.git
 * 시맨틱 검색, 어휘 검색, 하이브리드 검색 기법을 확인 합니다.
 
 
+## <i>[04_web_crawling.ipynb](./04_web_crawling.ipynb)</i>
+* beautifulsoup 라이브러리를 이용한 웹크롤링 샘플 코드 입니다.
+* 샘플 코드에서는 google 검색에 대한 결과 페이지를 가져오는 내용 입니다.
+
+---
 
 
-## 금주 내 시퀀스 다이어그램, 크롤링 샘플코드 부분도 공유 예정 입니다.
+## 템플릿
+* 아래 ToDo_1, ToDo_2 노트북은 각각 웹크롤링 후 S3 업로드, RAG 구현 단계를 만드는 템플릿 노트북 입니다.
+* 이 곳에 팔요한 코드를 채워서 템플릿의 Flow를 따라서 완성하는 것을 권장 드립니다.
+
+### <i>[ToDo_1_Crawling-Summary-Tableau.ipynb](./ToDo_1_Crawling-Summary-Tableau.ipynb)</i>
+
+
+
+### <i>[ToDo_2_RAG-QnA.ipynb](./ToDo_2_RAG-QnA.ipynb)</i>
 
 
 <br><br>
