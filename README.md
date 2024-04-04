@@ -36,7 +36,14 @@ git clone https://github.com/jesamkim/2024-ebp.git
 * 샘플 코드에서는 google 검색에 대한 결과 페이지를 가져오는 내용 입니다.
 
 ---
+## Sequence Diagram
+### 과제 1 
+![01-sequence-diagram.png](./img/01-sequence-diagram.png)
 
+### 과제 2
+
+
+---
 
 ## 템플릿
 * 아래 ToDo_1, ToDo_2 노트북은 각각 웹크롤링 후 S3 업로드, RAG 구현 단계를 만드는 템플릿 노트북 입니다.
