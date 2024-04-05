@@ -10,7 +10,7 @@
 
 
 ```bash
-cd SageMaker
+cd ~/SageMaker
 git clone https://github.com/jesamkim/2024-ebp.git
 
 ```
