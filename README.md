@@ -32,8 +32,9 @@ git clone https://github.com/jesamkim/2024-ebp.git
 
 
 ## <i>[04_web_crawling.ipynb](./04_web_crawling.ipynb)</i>
-* beautifulsoup 라이브러리를 이용한 웹크롤링 샘플 코드 입니다.
 * 샘플 코드에서는 google 검색에 대한 결과 페이지를 가져오는 내용 입니다.
+* 샘플 코드 1 : beautifulsoup을 이용한 웹크롤링 샘플 코드 입니다.
+* 샘플 코드 2 : selenium을 이용한 웹크롤링 샘플 코드 입니다.
 
 ---
 ## Sequence Diagram
