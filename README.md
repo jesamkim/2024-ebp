@@ -41,6 +41,15 @@ git clone https://github.com/jesamkim/2024-ebp.git
 * 이 샘플 코드는 크롤링 결과(csv 파일)를 요약하는 예시 입니다.
 
 
+## <i>[06_read-docs-and-lsummarization.ipynb](./06_read-docs-and-lsummarization.ipynb)</i>
+* 이 샘플 코드는 doc 파일을 읽는 것과, 문서 내용을 요약하는 예시 입니다.
+* 샘플 코드 1 : doc 파일을 읽고 처리하는 예시
+* 샘플 코드 2 : LangChain을 활용한 LLM invoke 예시
+* 심플 코드 3 : 문서 전체 내용을 요약할때, 내용이 많은 경우 Map Reduce 방식을 활용하여 요약 하는 예시 (LangChain 활용)
+
+
+
+
 ---
 ## Sequence Diagram
 ### 과제 1 
