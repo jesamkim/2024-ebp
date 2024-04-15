@@ -48,6 +48,11 @@ git clone https://github.com/jesamkim/2024-ebp.git
 * 심플 코드 3 : 문서 전체 내용을 요약할때, 내용이 많은 경우 Map Reduce 방식을 활용하여 요약 하는 예시 (LangChain 활용)
 
 
+## <i>[07_RAG_search_comp.ipynb](./07_RAG_search_comp.ipynb)</i>
+* 이 샘플 코드는 두 개의 다른 OpenSearch 인덱스에서 쿼리한 내용을 비교하는 예시 입니다.
+* Project-1 , Project-2 라는 두 개의 프로젝트를 각각에 필요한 문서로 RAG를 구성 합니다 (OpenSearch Index ; 도메인은 같음)
+* 이 두 프로젝트에 대해서 공통 쿼리 (예 : 1차에너지 공급 연평균 성장률에 대해서 상세히 알려주세요.) 에 대한 답변을 얻습니다.
+* 그 다음 두 답변에 대해 비교하는 쿼리 (예 : 다음 {context_1}과 {context_2}를 비교 합니다. 답변은 최대한 상세히 합니다. 모르는 내용을 말하지 않습니다.) 로 최종 비교 합니다.
 
 
 ---
