@@ -1,6 +1,7 @@
 boto3
 botocore
 anthropic
+langchain
 langchain-aws
 langchain-community
 opensearch-py==2.4.2
