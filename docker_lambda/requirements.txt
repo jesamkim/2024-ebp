@@ -1,0 +1,17 @@
+boto3
+botocore
+anthropic
+langchain==0.1.16
+langchain_community==0.0.34
+opensearch-py==2.4.2
+pdfplumber==0.10.3
+termcolor==2.4.0
+opensearch_dsl==2.1.0
+pdf2image
+pikepdf==8.12.0
+pypdf==4.0.1
+selenium
+trafilatura
+openpyxl
+pandas
+bs4
